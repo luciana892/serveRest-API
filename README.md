@@ -77,6 +77,10 @@ Ao executar os testes utilizando o reporter `htmlextra`, será gerado um arquivo
 
 Esse relatório pode ser utilizado para consultar as validações realizadas durante a execução da coleção.
 
+## Report
+
+Se você optou por rodar os testes com o report htmlextra,você gerou um arquivo html com o resultado dos testes e para verificar as validações voce pode abrir a pasta ##newman## que foi criada no local em que os arquivos de collectione e environment se encontram.
+
 ## Contato
 
 **E-mail:** [lucianavaleriana45@gmail.com](mailto:lucianavaleriana45@gmail.com)

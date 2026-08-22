@@ -1,7 +1,7 @@
 # serveRest-API
 Criação de Teste de API utilizando postman e newnam -htmlextra
 
-# Projeto #01 ServeREst API
+# Projeto #01 ServeRest API
 
 ## Teste de API REST — do manual à CI/CD
 

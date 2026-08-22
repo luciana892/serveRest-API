@@ -79,7 +79,7 @@ Esse relatório pode ser utilizado para consultar as validações realizadas dur
 
 ## Report
 
-Se você optou por rodar os testes com o report htmlextra,você gerou um arquivo html com o resultado dos testes e para verificar as validações voce pode abrir a pasta ##newman## que foi criada no local em que os arquivos de collectione e environment se encontram.
+Se você optou por rodar os testes com o report htmlextra,você gerou um arquivo html com o resultado dos testes e para verificar as validações voce pode abrir a pasta ##newman que foi criada no local em que os arquivos de collectione e environment se encontram.
 
 ## Contato
 
